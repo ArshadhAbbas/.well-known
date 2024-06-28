@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.dyamic_linking",
+      "sha256_cert_fingerprints":
+      ["E8:0A:62:72:06:1E:A4:54:86:25:45:48:C0:30:4A:24:B1:DC:2B:EE:D8:94:16:D4:17:57:AF:39:7E:77:CA:44"]
+    }
+  }]
